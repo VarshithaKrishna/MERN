@@ -46,13 +46,8 @@ Here are real screenshots from Dream Nest in action:
 
 ---
 
-### 📅 Booking History
-<img src="screenshots/Screenshot 2025-06-01 181250.png" width="600"/>
-
----
-
-### 🛠️ Admin Panel
-<img src="screenshots/Screenshot 2025-06-01 181307.png" width="600"/>
+### 📅 Booking History/ Reservation History
+<img src="screenshots/Screenshot 2025-06-01 185954.png" width="600"/>
 
 ---
 
