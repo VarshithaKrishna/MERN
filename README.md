@@ -25,7 +25,9 @@ Built with the **MERN Stack**:
 Here are real screenshots from Dream Nest in action:
 
 ### 🔑 Login & Registration
-<img src="screenshots/Screenshot 2025-06-01 181147.png" width="600"/>
+<img src="screenshots/Screenshot 2025-06-01 182731.png" width="600"/>
+
+<img src="screenshots/Screenshot 2025-06-01 182740.png" width="600"/>
 
 ---
 
@@ -40,7 +42,7 @@ Here are real screenshots from Dream Nest in action:
 ---
 
 ### ❤️ Wishlist
-<img src="screenshots/Screenshot 2025-06-01 181230.png" width="600"/>
+<img src="screenshots/Screenshot 2025-06-01 181436.png" width="600"/>
 
 ---
 
@@ -58,14 +60,11 @@ Here are real screenshots from Dream Nest in action:
 <img src="screenshots/Screenshot 2025-06-01 181315.png" width="600"/>
 
 ---
+### 🏠 Hosted Places by Host
+<img src="screenshots/Screenshot 2025-06-01 181504.png" width="600"/>
 
-### 📊 Trip Summary
-<img src="screenshots/Screenshot 2025-06-01 181336.png" width="600"/>
+<img src="screenshots/Screenshot 2025-06-01 181515.png" width="600"/>
 
----
-
-### 📈 Performance View
-<img src="screenshots/Screenshot 2025-06-01 181422.png" width="600"/>
 
 ---
 
