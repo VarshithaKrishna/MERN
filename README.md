@@ -146,12 +146,3 @@ JWT_SECRET=your-secret-key
 
 ---
 
-
-
-
-
-- Make sure to place all screenshots in a folder called `screenshots/` inside your project directory.
-- If hosting on GitHub, commit the screenshots with relative paths to ensure they render properly.
-
-Would you like me to generate this `README.md` file for download or push to your GitHub repository?
-```
