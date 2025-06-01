@@ -1,3 +1,4 @@
+
 # 🏡 Dream Nest – MERN Stack Property Rental Platform
 
 Dream Nest is a modern full-stack web application designed to simplify the rental and booking experience. With a responsive UI and robust backend, it offers seamless functionality for both **property owners (hosts)** and **renters (guests)**.
@@ -83,3 +84,74 @@ node index.js
 cd ../client
 npm install
 npm start
+````
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the `/server` folder:
+
+```env
+PORT=5000
+MONGODB_URI=your-mongo-uri
+JWT_SECRET=your-secret-key
+```
+
+---
+
+## 🧪 API Overview
+
+| Method | Endpoint                    | Description            |
+| ------ | --------------------------- | ---------------------- |
+| POST   | /auth/register              | Register new user      |
+| POST   | /auth/login                 | Login & receive JWT    |
+| GET    | /properties                 | List all properties    |
+| POST   | /properties                 | Add new property       |
+| GET    | /bookings/\:userId          | View bookings for user |
+| POST   | /bookings                   | Book a property        |
+| PATCH  | /users/\:userId/\:listingId | Toggle wishlist        |
+
+---
+
+## 🔧 Tech Stack
+
+* **Frontend**: React.js, Redux, Sass
+* **Backend**: Node.js, Express.js
+* **Database**: MongoDB (with Mongoose)
+* **Authentication**: JWT + Bcrypt
+* **Image Upload**: Multer (stored in `/public/uploads`)
+* **Tools**: Postman, VS Code, Git
+
+---
+
+## 💡 Features
+
+* ✅ Register/Login functionality
+* 🧳 Browse & book properties
+* 🏡 Host panel to upload listings
+* 🖼️ Image upload and display
+* 🔒 Secure access with token-based auth
+* 📱 Fully responsive across devices
+
+---
+
+## 🔮 Future Enhancements
+
+* 💳 Stripe payment integration
+* 🗺️ Google Maps for geo search
+* 📬 Email & SMS booking notifications
+* 📊 Admin analytics dashboard
+* 📲 Mobile application
+
+---
+
+
+
+
+
+- Make sure to place all screenshots in a folder called `screenshots/` inside your project directory.
+- If hosting on GitHub, commit the screenshots with relative paths to ensure they render properly.
+
+Would you like me to generate this `README.md` file for download or push to your GitHub repository?
+```
